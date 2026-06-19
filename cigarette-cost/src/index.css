@@ -23,3 +23,8 @@ html, body, #root {
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
+
+body {
+  cursor: default;
+  user-select: none;
+}
