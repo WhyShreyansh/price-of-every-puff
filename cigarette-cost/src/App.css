@@ -5,3 +5,14 @@
   position: relative;
   background: #0a0a0b;
 }
+
+/* Start Overlay */
+.start-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(ellipse at 50% 60%, #1a1208 0%, #0a0a0b 70%);
+  z-index: 100;
+}
