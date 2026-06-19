@@ -24,3 +24,10 @@
   pointer-events: none;
   opacity: 0.4;
 }
+
+.start-content {
+  text-align: center;
+  max-width: 560px;
+  padding: 2rem;
+  animation: fadeUp 1.2s ease forwards;
+}
