@@ -3,3 +3,14 @@
   margin: 0;
   padding: 0;
 }
+
+:root {
+  --coal: #0a0a0b;
+  --ash: #1c1c20;
+  --ember: #ff4d00;
+  --amber: #ffb347;
+  --smoke: rgba(200, 195, 185, 0.12);
+  --bone: #e8e0d0;
+  --life: #7ecba1;
+  --hope: #a8d8ea;
+}
