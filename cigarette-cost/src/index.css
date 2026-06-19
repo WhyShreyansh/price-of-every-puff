@@ -14,3 +14,12 @@
   --life: #7ecba1;
   --hope: #a8d8ea;
 }
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--coal);
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
