@@ -15,3 +15,9 @@
   background: radial-gradient(circle, rgba(160,150,130,0.5) 0%, transparent 100%);
   filter: blur(2px);
 }
+
+.particle-life {
+  background: radial-gradient(circle, rgba(126,203,161,0.8) 0%, transparent 100%);
+  filter: blur(1px);
+  box-shadow: 0 0 4px rgba(126,203,161,0.4);
+}
