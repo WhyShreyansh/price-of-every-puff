@@ -5,3 +5,8 @@
   z-index: 1;
   overflow: hidden;
 }
+
+.particle {
+  position: absolute;
+  border-radius: 50%;
+}
