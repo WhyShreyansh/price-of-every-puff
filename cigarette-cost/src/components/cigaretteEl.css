@@ -20,3 +20,14 @@
   overflow: hidden;
   box-shadow: 0 4px 20px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.05);
 }
+
+.cigarette-burn {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #1a1208 60%, #3d1a00 85%, #ff4d00 100%);
+  border-radius: 9px 0 0 9px;
+  z-index: 2;
+}
