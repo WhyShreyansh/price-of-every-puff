@@ -14,3 +14,12 @@
   background: radial-gradient(ellipse at 50% 60%, #12100a 0%, #0a0a0b 70%);
   transition: none;
 }
+
+.scene-vignette {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 50% 50%, transparent 40%, rgba(0,0,0,0.85) 100%);
+  opacity: 0.3;
+  pointer-events: none;
+  z-index: 2;
+}
