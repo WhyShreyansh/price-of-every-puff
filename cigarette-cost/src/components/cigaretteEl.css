@@ -83,3 +83,19 @@
   background: radial-gradient(circle, rgba(180,175,165,0.6) 0%, rgba(140,135,125,0.0) 100%);
   filter: blur(3px);
 }
+
+.cigarette-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  color: rgba(232, 224, 208, 0.25);
+  text-transform: uppercase;
+  margin-top: 0.5rem;
+}.cigarette-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  color: rgba(232, 224, 208, 0.25);
+  text-transform: uppercase;
+  margin-top: 0.5rem;
+}
