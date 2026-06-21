@@ -29,3 +29,9 @@
   display: flex;
   justify-content: center;
 }
+
+.hand-bar {
+  position: absolute;
+  bottom: 50%;
+  border-radius: 4px;
+}
