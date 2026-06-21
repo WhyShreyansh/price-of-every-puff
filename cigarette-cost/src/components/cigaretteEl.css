@@ -31,3 +31,10 @@
   border-radius: 9px 0 0 9px;
   z-index: 2;
 }
+
+.cigarette-body {
+  flex: 1;
+  height: 100%;
+  background: linear-gradient(180deg, #f5f0e8 0%, #e8e0d0 40%, #d4c8b4 100%);
+  position: relative;
+}
