@@ -66,3 +66,12 @@
   background: radial-gradient(circle, #ffdd00 0%, #ff6600 50%, #ff2200 100%);
   z-index: 3;
 }
+
+.smoke-container {
+  position: absolute;
+  bottom: calc(100% + 12px);
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
