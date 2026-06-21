@@ -48,3 +48,10 @@
   height: 2px;
   background: rgba(255,255,255,0.25);
 }
+
+.cigarette-filter {
+  width: 42px;
+  height: 100%;
+  background: linear-gradient(180deg, #d4834a 0%, #b8622e 50%, #9d4d1e 100%);
+}
+
