@@ -22,3 +22,10 @@
   opacity: 0;
   pointer-events: none;
 }
+
+.clock-hand {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+}
