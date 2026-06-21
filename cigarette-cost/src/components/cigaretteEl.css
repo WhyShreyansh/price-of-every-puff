@@ -38,3 +38,13 @@
   background: linear-gradient(180deg, #f5f0e8 0%, #e8e0d0 40%, #d4c8b4 100%);
   position: relative;
 }
+
+.cigarette-body::after {
+  content: '';
+  position: absolute;
+  top: 3px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: rgba(255,255,255,0.25);
+}
