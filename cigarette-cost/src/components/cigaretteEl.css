@@ -91,7 +91,9 @@
   color: rgba(232, 224, 208, 0.25);
   text-transform: uppercase;
   margin-top: 0.5rem;
-}.cigarette-label {
+}
+
+.cigarette-label {
   font-family: 'Inter', sans-serif;
   font-size: 0.65rem;
   letter-spacing: 0.2em;
