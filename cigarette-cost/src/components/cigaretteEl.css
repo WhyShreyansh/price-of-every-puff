@@ -55,3 +55,14 @@
   background: linear-gradient(180deg, #d4834a 0%, #b8622e 50%, #9d4d1e 100%);
 }
 
+.cigarette-ember {
+  position: absolute;
+  left: -4px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #ffdd00 0%, #ff6600 50%, #ff2200 100%);
+  z-index: 3;
+}
