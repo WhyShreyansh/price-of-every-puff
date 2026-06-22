@@ -14,3 +14,12 @@
   height: auto;
   filter: drop-shadow(0 0 20px rgba(232,224,208,0.06));
 }
+
+.age-display {
+  position: absolute;
+  top: -60px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  white-space: nowrap;
+}
