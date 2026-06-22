@@ -33,3 +33,12 @@
   text-transform: uppercase;
   margin-bottom: 2px;
 }
+
+.age-year {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: rgba(232,224,208,0.5);
+  letter-spacing: -0.02em;
+}
