@@ -5,3 +5,15 @@
   z-index: 8;
   width: 120px;
 }
+
+.calendar-page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 110px;
+  background: rgba(232, 224, 208, 0.06);
+  border: 1px solid rgba(232, 224, 208, 0.12);
+  border-radius: 3px;
+  padding: 8px;
+  backdrop-filter: blur(2px);
+}
