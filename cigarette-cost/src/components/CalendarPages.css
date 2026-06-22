@@ -41,3 +41,10 @@
   grid-template-columns: repeat(7, 1fr);
   gap: 1px;
 }
+
+.cal-day {
+  font-size: 0.38rem;
+  color: rgba(232, 224, 208, 0.3);
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
