@@ -17,3 +17,13 @@
   padding: 8px;
   backdrop-filter: blur(2px);
 }
+
+.cal-month {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.5rem;
+  letter-spacing: 0.2em;
+  color: rgba(255, 77, 0, 0.8);
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
