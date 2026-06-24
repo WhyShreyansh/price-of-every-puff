@@ -57,3 +57,18 @@
   letter-spacing: 0.02em;
   margin-bottom: 2.5rem;
 }
+
+.final-replay {
+  display: inline-block;
+  padding: 0.6rem 1.6rem;
+  background: transparent;
+  border: 1px solid rgba(232,224,208,0.2);
+  color: rgba(232,224,208,0.4);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.65rem;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
