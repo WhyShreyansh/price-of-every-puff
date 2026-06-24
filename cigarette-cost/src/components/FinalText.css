@@ -22,3 +22,14 @@
   text-transform: uppercase;
   margin-bottom: 1.2rem;
 }
+
+.final-headline {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(5rem, 14vw, 10rem);
+  font-weight: 900;
+  line-height: 0.9;
+  color: #e8e0d0;
+  letter-spacing: -0.03em;
+  margin-bottom: 2rem;
+  text-shadow: 0 0 80px rgba(232,224,208,0.08);
+}
