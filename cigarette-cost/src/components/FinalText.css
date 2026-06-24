@@ -33,3 +33,10 @@
   margin-bottom: 2rem;
   text-shadow: 0 0 80px rgba(232,224,208,0.08);
 }
+
+.final-headline em {
+  font-style: italic;
+  color: #7ecba1;
+  display: block;
+  text-shadow: 0 0 60px rgba(126,203,161,0.3);
+}
