@@ -37,3 +37,9 @@
   border-radius: 2px;
   overflow: hidden;
 }
+
+.health-fill {
+  height: 100%;
+  border-radius: 2px;
+  transition: none;
+}
