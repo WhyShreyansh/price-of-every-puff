@@ -7,3 +7,8 @@
   z-index: 20;
   pointer-events: none;
 }
+
+.final-inner {
+  text-align: center;
+  pointer-events: all;
+}
